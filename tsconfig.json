@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "es2015",
+        ],
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noEmitOnError": true,
+        "pretty": true,
+        "skipLibCheck": true,
+        "preserveConstEnums": true,
+        "newLine": "lf",
+        "esModuleInterop": true
+    },
+    "exclude": [
+        "test"
+    ]
+}
